@@ -5,7 +5,7 @@ Welcome to my profile!
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python)](https://skillicons.dev)
 
 ## Frameworks and Tools
-[![My Tools](https://skillicons.dev/icons?i=git,github,bash,node,npm,react,docker)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=git,github,bash,nodejs,npm,react,docker)](https://skillicons.dev)
 
 ## Databases
 [![Databases](https://skillicons.dev/icons?i=mysql,postgresql)](https://skillicons.dev)
