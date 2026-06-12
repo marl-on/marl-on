@@ -1,6 +1,8 @@
 ### Hi, I'm Marlon  
 Welcome to my profile!
 
+![Profile views](https://komarev.com/ghpvc/?username=marl-on&color=blueviolet)
+
 ### Here are some things I currently working on:
 * Notes and to-do webapp using React
 * Website for learning Hiragana and Katakana
