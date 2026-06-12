@@ -7,24 +7,18 @@
     /></a>
 </p>
 
-<p align="center">
-  <a href="https://tommylove.biz/">
-    <img src="https://github.com/marl-on/marl-on/raw/main/assets/giphy.gif" />
-  </a>
-</p>
-
 <p align=center>
   <img src=https://komarev.com/ghpvc/?username=marl-on&color=blueviolet />
 </p>
 
-### Here are some things I currently working on:
-* Notes and to-do webapp using React
-* Website for learning Hiragana and Katakana
+### Estoy trabajando actualmente en estos proyectos:
+* Aplicación web de notas y tareas usando React
+* Sitio web para aprender Hiragana y Katakana
 
-### Things I want to make:
-* CLI Hangman game
-* CLI notes and to-do app with reminders
-* CLI lyrics app for music
+### Tengo planeado trabajar en:
+* Juego de texto desarrollado para CLI
+* Aplicación con CLI para crear notas y tareas
+* Aplicación para visualización de la letra de música con CLI
 
 ## 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python)](https://skillicons.dev)
