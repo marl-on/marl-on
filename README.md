@@ -1,11 +1,11 @@
-### Hi, I'm Marlon
+### Hi, I'm Marlon  
 Welcome to my profile!
 
-Here are some things I currently working on:
+### Here are some things I currently working on:
 * Notes and to-do webapp using React
 * Website for learning Hiragana and Katakana
 
-Things I want to make:
+### Things I want to make:
 * CLI Hangman game
 * CLI notes and to-do app with reminders
 * CLI lyrics app for music
