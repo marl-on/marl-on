@@ -20,16 +20,16 @@
 * Aplicación con CLI para crear notas y tareas
 * Aplicación para visualización de la letra de música con CLI
 
-## 
+## Lenguajes
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python)](https://skillicons.dev)
 
-## Frameworks and Tools
-[![My Tools](https://skillicons.dev/icons?i=git,github,bash,nodejs,npm,react,docker)](https://skillicons.dev)
+## Frameworks y Herramientas
+[![My Tools](https://skillicons.dev/icons?i=git,github,nodejs,npm,react,docker)](https://skillicons.dev)
 
-## Databases
+## Base de Datos
 [![Databases](https://skillicons.dev/icons?i=mysql,postgresql)](https://skillicons.dev)
 
-## My OS
-[![OS](https://skillicons.dev/icons?i=mint)](https://skillicons.dev)
+## Sistema Operativo y Software
+[![OS](https://skillicons.dev/icons?i=linux,mint,bash,vscode,vscodium,vim,parcel)](https://skillicons.dev)
 
 
